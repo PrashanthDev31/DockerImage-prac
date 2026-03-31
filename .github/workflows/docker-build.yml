@@ -16,7 +16,7 @@ jobs:
     env:
       IMAGE_NAME: dockerimage-prac
       REGISTRY: ghcr.io
-      OWNER: PrashanthDev31`
+      OWNER: prashanthdev31
 
     steps:
       - name: Checkout code
